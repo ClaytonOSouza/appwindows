@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "image": "328527480917.dkr.ecr.us-east-1.amazonaws.com/appwindows:1",
-            "name": "sppwindows",
+            "name": "appwindows",
             "essential": true,
             "cpu": 1000,
             "memoryReservation": 512,
