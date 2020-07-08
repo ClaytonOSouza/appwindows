@@ -2,7 +2,7 @@
     "family": "appwindows",
     "containerDefinitions": [
         {
-            "image": "328527480917.dkr.ecr.us-east-1.amazonaws.com/appwindows:20",
+            "image": "328527480917.dkr.ecr.us-east-1.amazonaws.com/appwindows:15",
             "name": "appwindows",
             "essential": true,
 	    "cpu": 512,
