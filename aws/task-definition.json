@@ -2,11 +2,11 @@
     "family": "appwindows",
     "containerDefinitions": [
         {
-            "image": "328527480917.dkr.ecr.us-east-1.amazonaws.com/appwindows:9",
+            "image": "328527480917.dkr.ecr.us-east-1.amazonaws.com/appwindows:12",
             "name": "appwindows",
             "essential": true,
-            "cpu": 1000,
-            "memoryReservation": 512,
+            "cpu": 512,
+            "memoryReservation": 128,
             "portMappings": [
                 {
                     "containerPort": 80,
